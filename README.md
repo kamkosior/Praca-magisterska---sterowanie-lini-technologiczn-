@@ -57,7 +57,7 @@ The project involves controlling a production line for electric vehicle frames w
 
 ## Hardware
 <p align="center">
-  <img src="/hardware.JPG">
+  <img src="/hardware.jpg">
 </p>
 
 This is project tree. We can see all blocks, tags.
