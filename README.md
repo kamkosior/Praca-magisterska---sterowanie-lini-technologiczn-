@@ -57,15 +57,144 @@ The project involves controlling a production line for electric vehicle frames w
 
 ## Hardware
 <p align="center">
-  <img src="/hardware.jpg">
+  <img src="Documentation/1.hardware.jpg">
 </p>
+TEXT
 
-This is project tree. We can see all blocks, tags.
+## Project Tree
+<p align="center">
+  <img src="Documentation/1.tree.jpg">
+</p>
+TEXT
 
+## PLC Program
+<p align="center">
+  <img src="Documentation/3.PLC1.jpg">
+</p>
+TEXT
 
+<p align="center">
+  <img src="Documentation/3.PLC2.jpg">
+</p>
+TEXT
 
+<p align="center">
+  <img src="Documentation/3.PLC3.jpg">
+</p>
+TEXT
 
+## Safety
+<p align="center">
+  <img src="Documentation/4.safety.jpg">
+</p>
+TEXT
 
+## Main screen
+<p align="center">
+  <img src="Documentation/5.mainscreen.jpg">
+</p>
+TEXT
 
+## Fixtures
+<p align="center">
+  <img src="Documentation/6.fx.jpg">
+</p>
+TEXT
+
+## Robots
+<p align="center">
+  <img src="Documentation/7.robots.jpg">
+</p>
+TEXT
+
+## Turntable
+<p align="center">
+  <img src="Documentation/.jpg">
+</p>
+TEXT
+
+## Magazines
+<p align="center">
+  <img src="Documentation/.jpg">
+</p>
+TEXT
+
+## Ground Conveyor
+<p align="center">
+  <img src="Documentation/5.mainscreen.jpg">
+</p>
+TEXT
+
+## Washing Machine
+<p align="center">
+  <img src="Documentation/.jpg">
+</p>
+TEXT
+
+## PID
+<p align="center">
+  <img src="Documentation/12.pid.jpg">
+</p>
+TEXT
+
+## Layout
+<p align="center">
+  <img src="Documentation/11.layout.jpg">
+</p>
+TEXT
+
+## Model
+<p align="center">
+  <img src="Documentation/13.rsmodel.jpg">
+</p>
+TEXT
+
+## Program
+<p align="center">
+  <img src="Documentation/14.rsmodel.jpg">
+</p>
+TEXT
+
+## Station Logic
+<p align="center">
+  <img src="Documentation/15.rsstationlogic.jpg">
+</p>
+TEXT
+
+## Frame Model
+<p align="center">
+  <img src="Documentation/21.rama.jpg">
+</p>
+TEXT
+
+## Turn Table Model
+<p align="center">
+  <img src="Documentation/2.tt.jpg">
+</p>
+TEXT
+
+## Magazine Model
+<p align="center">
+  <img src="Documentation/23.magazin.jpg">
+</p>
+TEXT
+
+## PID Model
+<p align="center">
+  <img src="Documentation/16.pidfio.jpg">
+</p>
+TEXT
+
+## FluidSim Model
+<p align="center">
+  <img src="Documentation/17.fluidsim.jpg">
+</p>
+TEXT
+
+## Hardware Proneta
+<p align="center">
+  <img src="Documentation/18.proneta.jpg">
+</p>
+TEXT
 
 
