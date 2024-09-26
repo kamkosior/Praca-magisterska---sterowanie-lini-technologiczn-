@@ -109,13 +109,13 @@ TEXT
 
 ## Turntable
 <p align="center">
-  <img src="Documentation/.30.tt.jpg">
+  <img src="Documentation/30.tt.jpg">
 </p>
 TEXT
 
 ## Magazines
 <p align="center">
-  <img src="Documentation/.30.magj.pg">
+  <img src="Documentation/30.mag.jpg">
 </p>
 TEXT
 
