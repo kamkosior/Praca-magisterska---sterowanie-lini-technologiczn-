@@ -63,23 +63,23 @@ TEXT
 
 ## Project Tree
 <p align="center">
-  <img src="Documentation/1.tree.jpg">
+  <img src="Documentation/2.tree.jpg">
 </p>
 TEXT
 
 ## PLC Program
 <p align="center">
-  <img src="Documentation/3.PLC1.jpg">
+  <img src="Documentation/3.plc1.jpg">
 </p>
 TEXT
 
 <p align="center">
-  <img src="Documentation/3.PLC2.jpg">
+  <img src="Documentation/3.plc2.jpg">
 </p>
 TEXT
 
 <p align="center">
-  <img src="Documentation/3.PLC3.jpg">
+  <img src="Documentation/3.plc3.jpg">
 </p>
 TEXT
 
@@ -103,7 +103,7 @@ TEXT
 
 ## Robots
 <p align="center">
-  <img src="Documentation/7.robots.jpg">
+  <img src="Documentation/7. robots.jpg">
 </p>
 TEXT
 
@@ -151,7 +151,7 @@ TEXT
 
 ## Program
 <p align="center">
-  <img src="Documentation/14.rsmodel.jpg">
+  <img src="Documentation/14.rsprogram.jpg">
 </p>
 TEXT
 
