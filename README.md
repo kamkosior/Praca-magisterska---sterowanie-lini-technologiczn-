@@ -197,4 +197,14 @@ TEXT
 </p>
 TEXT
 
+## Scheme of operation
+<p align="center">
+  <img src="Documentation/40.tryby.jpg">
+</p>
+TEXT TRYBY
+
+<p align="center">
+  <img src="Documentation/40.R1.jpg">
+</p>
+TEXT 
 
