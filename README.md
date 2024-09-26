@@ -204,7 +204,7 @@ TEXT
 TEXT TRYBY
 
 <p align="center">
-  <img src="Documentation/40.R1.jpg">
+  <img src="Documentation/40.r1.jpg">
 </p>
 TEXT 
 
