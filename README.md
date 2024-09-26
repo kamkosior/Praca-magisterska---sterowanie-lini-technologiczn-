@@ -41,6 +41,26 @@ The project involves controlling a production line for electric vehicle frames w
 - [Program](#Program)
 - [Station Logic](#Station-logic)
 
+## About the Inventor
+- [Frame Model](#Frame-Model)
+- [Turntable Model](#Turntable-Model)
+- [Magazine Model](#Magazine-Model)
+
+## About the FactoryIO
+- [PID Model](#PID-Model)
+
+## About the FluidSim
+- [FluidSim Model](#FluidSim-Model)
+
+## About the Proneta
+- [Hardware Proneta](#Hardware-proneta)
+
+## Hardware
+<p align="center">
+  <img src="/hardware.JPG">
+</p>
+
+This is project tree. We can see all blocks, tags.
 
 
 
