@@ -109,25 +109,25 @@ TEXT
 
 ## Turntable
 <p align="center">
-  <img src="Documentation/.jpg">
+  <img src="Documentation/.30.tt.jpg">
 </p>
 TEXT
 
 ## Magazines
 <p align="center">
-  <img src="Documentation/.jpg">
+  <img src="Documentation/.30.magj.pg">
 </p>
 TEXT
 
 ## Ground Conveyor
 <p align="center">
-  <img src="Documentation/5.mainscreen.jpg">
+  <img src="Documentation/30.gc.jpg">
 </p>
 TEXT
 
 ## Washing Machine
 <p align="center">
-  <img src="Documentation/.jpg">
+  <img src="Documentation/30.wash.jpg">
 </p>
 TEXT
 
