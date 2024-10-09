@@ -2,8 +2,6 @@
 Master's thesis - process line control for the implementation of selected production processes for electric car chassis frames. 
 </h2>
 
-IN WORK! 
-
 [![video](mgr.jpg)](https://youtu.be/ptrcTcbF7wA)
 
 If you want watch how it works, clik on the screen.
