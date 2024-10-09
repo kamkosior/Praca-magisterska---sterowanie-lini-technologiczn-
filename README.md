@@ -138,76 +138,76 @@ Washing machine is starting in this screen. Additional if sensor detect a frame 
 <p align="center">
   <img src="Documentation/12.pid.jpg">
 </p>
-TEXT
+This screen shows how PID works and worker can set parameters.
 
 ## Layout
 <p align="center">
   <img src="Documentation/11.layout.jpg">
 </p>
-TEXT
+In this screen we can see all station with safety elements in substations - if circle is red then safety is no fulfilled, and if circle is green then safety is fulfilled. If each circle is green (safety is true) station may be started.
 
 ## Model
 <p align="center">
   <img src="Documentation/13.rsmodel.jpg">
 </p>
-TEXT
+This picture show what the station looks like with all elements in simulation in RobotStudio. In this station are: handling robot on the track, handling robot, turntable with two fixtures, two magazines, washing machine and ground conveyor. All elements are fenced by protective barriers.
 
 ## Program
 <p align="center">
   <img src="Documentation/14.rsprogram.jpg">
 </p>
-TEXT
+Part of the program for handling robot and turn table is in the picture above.
 
 ## Station Logic
 <p align="center">
   <img src="Documentation/15.rsstationlogic.jpg">
 </p>
-TEXT
+Station Logic show how simulation works and wchich elements are conntected with other elements. 
 
 ## Frame Model
 <p align="center">
   <img src="Documentation/21.rama.jpg">
 </p>
-TEXT
+This picture shows model CAD car frame with technical drawings. 
 
 ## Turn Table Model
 <p align="center">
   <img src="Documentation/2.tt.jpg">
 </p>
-TEXT
+This picture shows model CAD turn table with technical drawings. 
 
 ## Magazine Model
 <p align="center">
   <img src="Documentation/23.magazin.jpg">
 </p>
-TEXT
+This picture shows model CAD magaizn with technical drawings. 
 
 ## PID Model
 <p align="center">
   <img src="Documentation/16.pidfio.jpg">
 </p>
-TEXT
+This picture shows PID models in Factory IO with regulator diagram in HMI Panel.
 
 ## FluidSim Model
 <p align="center">
   <img src="Documentation/17.fluidsim.jpg">
 </p>
-TEXT
+In this photo we can see how actuators works in FLuidSim wit connections to PLC.
 
 ## Hardware Proneta
 <p align="center">
   <img src="Documentation/18.proneta.jpg">
 </p>
-TEXT
+Proneta shows hardware in project. It is similar to hardware in Tia Portal, but it's better to make change e.g. IP adress.
 
 ## Scheme of operation
 <p align="center">
   <img src="Documentation/40.tryby.jpg">
 </p>
-TEXT TRYBY
+This photo shows scheme of operation mode. Each substation has individual scheme of operations.
 
 <p align="center">
   <img src="Documentation/40.r1.jpg">
 </p>
-TEXT 
+In this scheme we can see scheme of operation in handling robot no.1.  
 
