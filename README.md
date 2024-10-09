@@ -75,12 +75,14 @@ For each substations used structured PLC tags. In addition was created PLC data 
 </p>
 In FC block have been made all position for actuators, clamps and detected position.
 
-<p align="center">
+<p 
+ align="center">
   <img src="Documentation/3.plc2.jpg">
 </p>
 In FB Block have been made steps for all substations. In this block was make also manuals to substations.
 
-<p align="center">
+<p 
+ align="center">
   <img src="Documentation/3.plc3.jpg">
 </p>
 In the picture we can see Graph sequences with call transitions, positions etc. 
@@ -206,7 +208,8 @@ Proneta shows hardware in project. It is similar to hardware in Tia Portal, but 
 </p>
 This photo shows scheme of operation mode. Each substation has individual scheme of operations.
 
-<p align="center">
+<p 
+ align="center">
   <img src="Documentation/40.r1.jpg">
 </p>
 In this scheme we can see scheme of operation in handling robot no.1.  
