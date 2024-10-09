@@ -59,77 +59,80 @@ The project involves controlling a production line for electric vehicle frames w
 <p align="center">
   <img src="Documentation/1.hardware.jpg">
 </p>
-TEXT
+In the picture we can see hardware with connections to PLC S7-1500, switches, safety elements, robots modules. 
+All modules was addes with relevant GSDML files.
 
 ## Project Tree
 <p align="center">
   <img src="Documentation/2.tree.jpg">
 </p>
-TEXT
+Project Tree have folders with operation mode and diagnostic, safety, substations such as: magazines, turntable, fixture, ground conveyor and robots. All folder has FC and FB block depending of the application. 
+For each substations used structured PLC tags. In addition was created PLC data types for easier call in data.
 
 ## PLC Program
 <p align="center">
   <img src="Documentation/3.plc1.jpg">
 </p>
-TEXT
+In FC block have been made all position for actuators, clamps and detected position.
 
 <p align="center">
   <img src="Documentation/3.plc2.jpg">
 </p>
-TEXT
+In FB Block have been made steps for all substations. In this block was make also manuals to substations.
 
 <p align="center">
   <img src="Documentation/3.plc3.jpg">
 </p>
-TEXT
+In the picture we can see Graph sequences with call transitions, positions etc. 
+Graph was used, because in my opinion it is clear to find errors and make other instructions.
 
 ## Safety
 <p align="center">
   <img src="Documentation/4.safety.jpg">
 </p>
-TEXT
+Safety was maked in dediacated safety block. Used E-Stops, safety doors and acknowledges.
 
 ## Main screen
 <p align="center">
   <img src="Documentation/5.mainscreen.jpg">
 </p>
-TEXT
+In main screen we can see all available screens to service line. 
 
 ## Fixtures
 <p align="center">
   <img src="Documentation/6.fx.jpg">
 </p>
-TEXT
+In fixtures screen worker can see positions actuators, clamps, sensors and he make control it in manual mode.
 
 ## Robots
 <p align="center">
   <img src="Documentation/7. robots.jpg">
 </p>
-TEXT
+In robot screen worker can see positions robots, actual program. Additional can sent robot to home position and cleaning gripper position.
 
 ## Turntable
 <p align="center">
   <img src="Documentation/30.tt.jpg">
 </p>
-TEXT
+In this screen table will be start and we can see table position.
 
 ## Magazines
 <p align="center">
   <img src="Documentation/30.mag.jpg">
 </p>
-TEXT
+It is the same situation such as in fixtures.
 
 ## Ground Conveyor
 <p align="center">
   <img src="Documentation/30.gc.jpg">
 </p>
-TEXT
+In this screen conveyour will be start and we can see which motor sensor is active.
 
 ## Washing Machine
 <p align="center">
   <img src="Documentation/30.wash.jpg">
 </p>
-TEXT
+Washing machine is starting in this screen. Additional if sensor detect a frame - we see it on screen.
 
 ## PID
 <p align="center">
